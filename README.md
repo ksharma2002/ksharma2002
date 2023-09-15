@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ksharma2002
+- 👀 I’m interested in learning how to use my GitHub.
+- 🌱 I’m currently learning Python Pandas, and how to work with large datasets.
+- 📫 Reach me here!
